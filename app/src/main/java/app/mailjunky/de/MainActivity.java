@@ -16,6 +16,9 @@ public class MainActivity extends AppCompatActivity {
         WebSettings webSettings = mWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
         mWebView.loadUrl("https://m.mailjunky.de");
+// Stop local links and redirects from opening in browser instead of WebView
+        mWebView.setWebViewClient(new MyAppWebViewClient());
+
     }
 
 }
