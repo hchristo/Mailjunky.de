@@ -11,7 +11,7 @@ import android.webkit.WebViewClient;
 public class MyAppWebViewClient extends WebViewClient {
     @Override
     public boolean shouldOverrideUrlLoading(WebView view, String url) {
-        if (Uri.parse(url).getHost().endsWith("m.mailjunky.de") || Uri.parse(url).getHost().endsWith("mailjunky.de")) {
+        if (Uri.parse(url).getHost().endsWith("m.mailjunky.de") || Uri.parse(url).getHost().endsWith("m.mailjunky.de")) {
             return false;
         }
 
