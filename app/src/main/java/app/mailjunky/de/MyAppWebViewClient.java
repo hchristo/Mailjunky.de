@@ -20,4 +20,5 @@ public class MyAppWebViewClient extends WebViewClient {
         return true;
 
     }
+
 }

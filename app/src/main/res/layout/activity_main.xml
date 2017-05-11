@@ -7,7 +7,6 @@
     tools:context="app.mailjunky.de.MainActivity"
     tools:ignore="MergeRootFrame">
 
-
     <WebView
         android:id="@+id/webView"
         android:layout_width="fill_parent"
