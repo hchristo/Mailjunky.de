@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release
+        version="1.9"
+        versioncode="10">
+        <change>Bereit gemacht fuer Android 7</change>
+        <change>Changelog Hinzugefuegt</change>
+    </release>
+    <release
+        version="1.8"
+        versioncode="9">
+        <change>Zurueck Button kann benutzt werden</change>
+        <change>Unnoetige Codezeilen Entfernt</change>
+    </release>
+    <release
+        version="1.7"
+        versioncode="8">
+        <change>Drehen des Handys wieder Erlaubt :D</change>
+        <change>--> Außer beim Splashscreen</change>
+        <change>Logout beim drehen des Handys gefixxt</change>
+        <change>Splashscreen Ladezeit verkuerzt</change>
+        <change>Kleinere Korrekturen im Code</change>
+    </release>
+    <release
+        version="1.6"
+        versioncode="7">
+        <change>Icon Geaendert</change>
+        <change>App Name Gekuerzt</change>
+        <change>Splash Screen geaendert</change>
+        <change>von Fenster zu Fullscreen geaendert</change>
+        <change>Implementierung SD Karte Entfernt</change>
+        <change>Vorab-Implementierung der Webdisk nutzung entfernt</change>
+    </release>
+    <release
+        version="1.5"
+        versioncode="6">
+        <change>Kleine Fehlerbehebungen</change>
+        <change>Beta Test der "Cookie Speicherung"</change>
+        <change>Vorabimplementierung der Speicherung auf SD Karten (noch ohne Funktion)</change>
+        <change>Vorabimplementierung der Webdisk nutzung (noch ohne Funktion)</change>
+    </release>
+    <release
+        version="1.4"
+        versioncode="5">
+        <change>Zoomen Aktiviert</change>
+        <change>Splashscreen Geaendert</change>
+        <change>Nervige APP Name Leiste Entfernt</change>
+    </release>
+    <release
+        version="1.3"
+        versioncode="4">
+        <change>Java Script Aktiviert</change>
+        <change>Fehler mit den 2 App Installationen behoben</change>
+        <change>- 1x App Ohne Splashscreen</change>
+        <change>- 1x App mit Splashscreen</change>
+    </release>
+    <release
+        version="1.2"
+        versioncode="3">
+        <change>Splashscreen Hinzugefuegt</change>
+        <change>Bildschirm Fixiert</change>
+    </release>
+    <release
+        version="1.1"
+        versioncode="2">
+        <change>aenderung des Icons</change>
+        <change>aenderung der WebView Aufloesung</change>
+        <change>Verlassen der Alpha</change>
+    </release>
+    <release
+        version="1.0"
+        versioncode="1">
+        <change>Erster Release der Alpha Version</change>
+    </release>
+</changelog>

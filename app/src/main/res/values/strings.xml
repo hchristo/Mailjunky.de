@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mailjunky.de</string>
+    <string name="title_changelog">Change log</string>
+    <string name="changelog_close">Ok</string>
 </resources>

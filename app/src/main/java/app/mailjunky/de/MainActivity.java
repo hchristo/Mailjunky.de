@@ -24,7 +24,9 @@ public class MainActivity extends AppCompatActivity {
         mWebView.loadUrl("https://m.mailjunky.de/");
 // Stop local links and redirects from opening in browser instead of WebView
         mWebView.setWebViewClient(new MyAppWebViewClient());
-
+//Launch change log dialog
+        ChangeLogDialog _ChangelogDialog = new ChangeLogDialog(this);
+        _ChangelogDialog.show();
     }
 
     @Override
@@ -43,4 +45,5 @@ public class MainActivity extends AppCompatActivity {
         }
         return super.onKeyDown(keyCode, event);
 }
+
 }
