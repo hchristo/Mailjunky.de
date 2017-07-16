@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
     <release
+        version="1.10"
+        versioncode="10">
+        <change>Zurueck Button Aktualisiert die Seite</change>
+        <change>Code Korrekturen</change>
+    </release>
+    <release
         version="1.9"
         versioncode="10">
         <change>Bereit gemacht fuer Android 7</change>

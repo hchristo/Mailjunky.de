@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setDomStorageEnabled(true);
         webSettings.setBuiltInZoomControls(true);
         webSettings.setDisplayZoomControls(false);
+        webSettings.setAllowFileAccess(true);
         mWebView.loadUrl("https://m.mailjunky.de/");
 // Stop local links and redirects from opening in browser instead of WebView
         mWebView.setWebViewClient(new MyAppWebViewClient());
@@ -36,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 case KeyEvent.KEYCODE_BACK:
                     if (mWebView.canGoBack()) {
                         mWebView.goBack();
+                        mWebView.reload();
                     } else {
                         finish();
                     }
