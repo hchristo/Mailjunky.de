@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
     <release
+        version="1.10.1"
+        versioncode="12">
+        <change>Kleine Reduzierung der APP Groeße durch Komprimierung von Bildern</change>
+    </release>
+    <release
         version="1.10"
-        versioncode="10">
+        versioncode="11">
         <change>Zurueck Button Aktualisiert die Seite</change>
         <change>Code Korrekturen</change>
     </release>
