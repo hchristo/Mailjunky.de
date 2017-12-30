@@ -1,0 +1,18 @@
+[
+  {
+    "outputType": {
+      "type": "APK"
+    },
+    "apkInfo": {
+      "type": "MAIN",
+      "splits": [],
+      "versionCode": 13
+    },
+    "path": "app-release.apk",
+    "properties": {
+      "packageId": "app.mailjunky.de",
+      "split": "",
+      "minSdkVersion": "19"
+    }
+  }
+]

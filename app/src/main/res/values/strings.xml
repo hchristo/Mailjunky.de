@@ -1,5 +1,68 @@
 <resources>
     <string name="app_name">Mailjunky.de</string>
-    <string name="title_changelog">Change log</string>
-    <string name="changelog_close">Geil!</string>
+    <string name="whatsnew">
+        - Version 1.11\n
+        Bereit für Android 8\n
+        Upodate von Android 4.0.4 auf 4.4.4\n
+        Changelog Geaendert (Wird nur noch 1x pro Update gezeigt)\n
+        Neues Mailjunky.de APP Logo\n
+        --(by Zycolypse)\n
+        Splash und APP Logo Komprimiert\n
+        \n
+        - Version 1.10\n
+        Zurueck Button Aktualisiert die Seite\n
+        Code Korrekturen\n
+        \n
+        - Version 1.9\n
+        Bereit gemacht fuer Android 7\n
+        Changelog Hinzugefuegt\n
+        \n
+        - Version 1.8\n
+        Zurueck Button kann benutzt werden\n
+        Unnoetige Codezeilen Entfernt\n
+        \n
+        - Version 1.7\n
+        Drehen des Handys wieder Erlaubt :D\n
+        --> Außer beim Splashscreen\n
+        Logout beim drehen des Handys gefixxt\n
+        Splashscreen Ladezeit - Verkuerzt\n
+        Kleinere Korrekturen im Code\n
+        \n
+        - Version 1.6\n
+        Icon Geaendert\n
+        App Name Gekuerzt\n
+        Splash Screen geaendert\n
+        - Von Fenster zu Fullscreen geaendert\n
+        Implementierung SD Karte Entfernt\n
+        - Vorab-Implementierung der Webdisk nutzung entfernt\n
+         \n
+        - Version 1.5\n
+        Kleine Fehlerbehebungen\n
+        Beta Test der Cookie Speicherung\n
+        - Vorabimplementierung der Speicherung auf SD Karten (noch ohne Funktion)\n
+        - Vorabimplementierung der Webdisk nutzung (noch ohne Funktion)\n
+        \n
+        - Version 1.4\n
+        Zoomen Akti- Viert\n
+        Splashscreen Geaendert\n
+        Ner- Vige APP Name Leiste Entfernt\n
+        \n
+        - Version 1.3\n
+        Ja- Va Script Akti- Viert\n
+        Fehler mit den 2 App Installationen behoben\n
+        - 1x App Ohne Splashscreen\n
+                - 1x App mit Splashscreen\n
+        \n
+        - Version 1.2\n
+        Splashscreen Hinzugefuegt\n
+        Bildschirm Fixiert\n
+        \n
+        - Version 1.1\n
+        aenderung des Icons\n
+        aenderung der Web- View Aufloesung\n
+        - Verlassen der Alpha\n
+        \n
+        - Version 1.0\n
+        Erster Release der Alpha - Version\n
+</string>
 </resources>
