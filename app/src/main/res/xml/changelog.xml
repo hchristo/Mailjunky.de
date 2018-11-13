@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
     <release
+        version="1.12"
+        versioncode="14">
+        <change>Bereit gemacht für Android 8</change>
+        <change>Mindestens Android 4.4.4 statt 4.0.5</change>
+    </release>
+    <release
+        version="1.11"
+        versioncode="13">
+        <change>Kleine Reduzierung der APP Groeße durch Komprimierung von Bildern</change>
+    </release>
+    <release
         version="1.10.1"
         versioncode="12">
         <change>Kleine Reduzierung der APP Groeße durch Komprimierung von Bildern</change>
