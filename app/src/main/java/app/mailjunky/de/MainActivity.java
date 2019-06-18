@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         new WhatsNewScreen(this).show();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mWebView = (WebView) findViewById(R.id.webView);
+        mWebView = findViewById(R.id.webView);
         // Enable Javascript
         WebSettings webSettings = mWebView.getSettings();
         webSettings.setLoadsImagesAutomatically(true);

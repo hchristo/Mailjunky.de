@@ -5,13 +5,15 @@ import android.net.Uri;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
+import java.util.Objects;
+
 /**
  * Created by Christoph on 04.06.2016.
  */
 public class MyAppWebViewClient extends WebViewClient {
     @Override
     public boolean shouldOverrideUrlLoading(WebView view, String url) {
-        if (Uri.parse(url).getHost().endsWith("m.mailjunky.de")) {
+        if ("m.mailjunky.de".endsWith(Objects.requireNonNull(Uri.parse(url).getHost()))) {
             return false;
         }
 

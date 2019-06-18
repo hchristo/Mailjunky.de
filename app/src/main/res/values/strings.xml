@@ -1,12 +1,20 @@
 <resources>
     <string name="app_name">Mailjunky.de</string>
-    <string name="whatsnew">
+    <string name="whatsnew"><![CDATA[
+        - Version 1.12\n
+        Runterziehen fuer Aktualisierung
+        Zurueck taste Aktualisiert nicht mehr den Posteingang
+        - Version 1.11.3\n
+        Bereit für Android 8.1\n
+        Zurueck Button gefixt\n
+        Scrollen bei langen Texten aktiviert\n
+        Code Korrekturen und kleine Aenderungen\n
         - Version 1.11\n
         Bereit für Android 8\n
         Upodate von Android 4.0.4 auf 4.4.4\n
         Changelog Geaendert (Wird nur noch 1x pro Update gezeigt)\n
         Neues Mailjunky.de APP Logo\n
-        --(by Zycolypse)\n
+        —(by Zycolypse)\n
         Splash und APP Logo Komprimiert\n
         \n
         - Version 1.10\n
@@ -23,7 +31,7 @@
         \n
         - Version 1.7\n
         Drehen des Handys wieder Erlaubt :D\n
-        --> Außer beim Splashscreen\n
+        —> Außer beim Splashscreen\n
         Logout beim drehen des Handys gefixxt\n
         Splashscreen Ladezeit - Verkuerzt\n
         Kleinere Korrekturen im Code\n
@@ -64,5 +72,5 @@
         \n
         - Version 1.0\n
         Erster Release der Alpha - Version\n
-</string>
+]]></string>
 </resources>
