@@ -52,7 +52,7 @@ public class WhatsNewScreen {
                                 // Mark this version as read
                                 SharedPreferences.Editor editor = prefs.edit();
                                 editor.putLong(LAST_VERSION_CODE_KEY, packageInfo.versionCode);
-                                editor.commit();
+                                editor.apply();
                                 dialogInterface.dismiss();
                             }
                         });

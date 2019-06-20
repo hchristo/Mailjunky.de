@@ -9,7 +9,7 @@
         android:label="Mailjunky - Wir Lieben E-Mails"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
-        android:windowSoftInputMode="adjustPan|adjustResize"
+        android:overScrollMode="always"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
         <activity
             android:name=".SplashScreen"
@@ -24,7 +24,7 @@
 
         <activity
             android:name=".MainActivity"
-            android:configChanges="orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:configChanges="orientation|keyboardHidden|screenLayout|uiMode|screenSize"
             android:windowSoftInputMode="adjustResize" />
     </application>
     <uses-permission android:name="android.permission.INTERNET" />

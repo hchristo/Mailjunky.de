@@ -3,11 +3,11 @@
     "outputType": {
       "type": "APK"
     },
-    "apkInfo": {
+    "apkData": {
       "type": "MAIN",
       "splits": [],
-      "versionCode": 17,
-      "versionName": "1.11.3 Final Release",
+      "versionCode": 21,
+      "versionName": "1.13 Pullrefresh",
       "enabled": true,
       "outputFile": "app-release.apk",
       "fullName": "release",

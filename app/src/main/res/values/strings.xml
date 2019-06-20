@@ -1,14 +1,22 @@
 <resources>
     <string name="app_name">Mailjunky.de</string>
     <string name="whatsnew"><![CDATA[
+        - Version 1.13\n
+        Runterziehen fuer Aktualisierung\n
+        Zurueck gefixxt\n
+        Bildschirm bleibt aktiv\n
+        Zuruecktaste bis zum Login beendet APP\n
+        Code Korrekturen\n
+        \n
         - Version 1.12\n
-        Runterziehen fuer Aktualisierung
-        Zurueck taste Aktualisiert nicht mehr den Posteingang
+       VERSION UEBERSPRUNGEN\n
+       \n
         - Version 1.11.3\n
         Bereit für Android 8.1\n
         Zurueck Button gefixt\n
         Scrollen bei langen Texten aktiviert\n
         Code Korrekturen und kleine Aenderungen\n
+        \n
         - Version 1.11\n
         Bereit für Android 8\n
         Upodate von Android 4.0.4 auf 4.4.4\n
