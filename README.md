@@ -1,4 +1,23 @@
- - Version 1.11
+        - Version 1.13
+        Runterziehen fuer Aktualisierung
+        Zurueck gefixxt
+        Bildschirm bleibt aktiv
+        Zuruecktaste bis zum Login beendet APP
+        Code Korrekturen
+        
+        - Version 1.12
+        VERSION ÜBERSPRUNGEN
+        
+        - Version 1.11.3
+        Bereit für Android 8.1
+        Zurueck Button gefixt
+        Scrollen bei langen Texten aktiviert
+        Code Korrekturen und kleine Aenderungen
+        
+        - Version 1.11.2
+        keine Bugs behoben, zu viele Buggs verursacht
+        
+        - Version 1.11
         Bereit für Android 8
         Upodate von Android 4.0.4 auf 4.4.4
         Changelog Geaendert (Wird nur noch 1x pro Update gezeigt)
