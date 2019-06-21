@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Mailjunky.de</string>
     <string name="whatsnew"><![CDATA[
+        - Version 1.13.1\n
+        ENTFERNT: Zuruecktaste bis zum Login beendet APP\n
+        Doppeltes Klicken auf zurueck beendet APP\n
+        \n
         - Version 1.13\n
         Runterziehen fuer Aktualisierung\n
         Zurueck gefixxt\n

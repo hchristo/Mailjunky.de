@@ -6,8 +6,8 @@
     "apkData": {
       "type": "MAIN",
       "splits": [],
-      "versionCode": 21,
-      "versionName": "1.13 Pullrefresh",
+      "versionCode": 23,
+      "versionName": "1.13.1 Pullrefresh",
       "enabled": true,
       "outputFile": "app-release.apk",
       "fullName": "release",
