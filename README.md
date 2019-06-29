@@ -1,3 +1,11 @@
+Die Aktualisierung erfolgt über den PlayStore direkt.
+Alternativ kannst du die APP auch unter: https://app.mailjunky.de Downloaden.
+Dort findest du auch Ältere Versionen um die vielleicht mal auszuprobieren.
+
+Weiterhin Viel Spaß mit unserem Dienst.        
+
+        Changelog:
+        
         - Version 1.13.1
         ENTFERNT: Zuruecktaste bis zum Login beendet APP
         Doppeltes Klicken auf zurueck beendet APP
