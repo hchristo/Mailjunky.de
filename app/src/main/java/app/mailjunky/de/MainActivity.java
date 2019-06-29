@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
+import android.view.WindowManager;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.widget.Toast;
@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
         // Layout of the main activity
 
         setContentView(R.layout.activity_main);
-
 
         // Show the "What's New" screen once for each new release of the application
         new WhatsNewScreen(this).show();
@@ -37,15 +36,13 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setLoadWithOverviewMode(true);
         mWebView.clearCache(true);
         webSettings.setAllowContentAccess(true);
-        webSettings.setAllowFileAccess(true);
         webSettings.setJavaScriptCanOpenWindowsAutomatically(true);
         mWebView.loadUrl("https://m.mailjunky.de/");
+        getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_ADJUST_RESIZE);
 
 // Stop local links and redirects from opening in browser instead of WebView
         mWebView.setWebViewClient(new MyAppWebViewClient());
-        mWebView.requestFocus(View.FOCUS_DOWN);
-        mWebView.setVisibility(View.VISIBLE);
-
+        getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_ADJUST_RESIZE);
         layoutRefresh = this.findViewById(R.id.swipeLayout);
         layoutRefresh.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
@@ -56,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
                 layoutRefresh.setRefreshing(false); //this line hides the refresh button after completing
             }
         });
-//Launch change log dialog
 
     }
 
