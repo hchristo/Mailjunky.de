@@ -1,4 +1,4 @@
-        - Version 1.13.1\n
+        - Version 1.13.1
         ENTFERNT: Zuruecktaste bis zum Login beendet APP
         Doppeltes Klicken auf zurueck beendet APP
         
