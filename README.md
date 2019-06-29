@@ -1,3 +1,7 @@
+        - Version 1.13.1\n
+        ENTFERNT: Zuruecktaste bis zum Login beendet APP
+        Doppeltes Klicken auf zurueck beendet APP
+        
         - Version 1.13
         Runterziehen fuer Aktualisierung
         Zurueck gefixxt
